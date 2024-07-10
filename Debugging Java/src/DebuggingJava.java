@@ -25,7 +25,7 @@ public class DebuggingJava {
     }
     static void c(){
         System.out.println("Entrou no método c");
-        //Thread.dumStack();
+        //Thread.dumpStack();
         System.out.println("Finalizou o método c");
 }
 }
